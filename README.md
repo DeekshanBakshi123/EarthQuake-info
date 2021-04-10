@@ -23,10 +23,16 @@ plan that has an out-of-state contact. Plan where to meet if you get separated. 
     
     
 o Include non-perishable foods, cleaning supplies, and water for several days, in case services are cut off in your area. If you are able to, set aside items like soap, hand sanitizer that contains at least 60 percent alcohol, disinfecting wipes, and general household cleaning supplies that you can use to disinfect surfaces you touch regularly. After an earthquake, you may not have access to these supplies for days or even weeks.
+
+
 o Being prepared allows you to avoid unnecessary excursions and to address minor medical issues at home, alleviating the burden on urgent care centers and hospitals.
+
+
 o Remember that not everyone can afford to respond by stocking up on necessities. For those who can afford it, making essential purchases and slowly building up supplies in advance will allow for longer time periods between shopping trips. This helps to protect those who are unable to procure essentials in advance of the pandemic and must shop more frequently. In addition, consider avoiding WIC-labeled products so that those who rely on these products can access them.
    
  Precautions for Earthquakes
+ 
+ 
  • Protect Your Home: Secure heavy items in your home like bookcases, refrigerators, televisions and objects that hang on walls. Store heavy and breakable objects on low shelves. Consider making improvements to your building to fix structural issues that could cause your building to collapse during an earthquake. Consider obtaining an earthquake insurance policy. A standard homeowner’s insurance policy does not cover earthquake damage.
  
  
@@ -122,6 +128,7 @@ Precautions for Earthquakes
  Once you are safe, pay attention to local news reports for emergency information and instructions via battery-operated radio, TV, social media or from cell phone text alerts.
  
 • Register on the American Red Cross “Safe and Well” website so people will know you are okay.
+
 • Use text messages to communicate, which may be more reliable than phone calls.
 
 
